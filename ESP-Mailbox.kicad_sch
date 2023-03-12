@@ -727,7 +727,6 @@
     )
   )
 
-
   (junction (at 52.07 121.92) (diameter 0) (color 0 0 0 0)
     (uuid 197304a0-08eb-48cc-9fc3-85fab7acf8bf)
   )
@@ -1214,7 +1213,7 @@
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2e766d16-9d8f-4bbf-b0e2-ae85e471c358)
     (property "Reference" "U3" (id 0) (at 93.98 29.21 0))
-    (property "Value" "ME6811" (id 1) (at 93.98 31.75 0))
+    (property "Value" "ME6209" (id 1) (at 93.98 31.75 0))
     (property "Footprint" "Package_TO_SOT_SMD:SOT-23_Handsoldering" (id 2) (at 93.98 31.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -1880,7 +1879,7 @@
       (reference "U2") (unit 1) (value "ESP-M2") (footprint "ESP8285:ESP-M2")
     )
     (path "/2e766d16-9d8f-4bbf-b0e2-ae85e471c358"
-      (reference "U3") (unit 1) (value "ME6811") (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering")
+      (reference "U3") (unit 1) (value "ME6209") (footprint "Package_TO_SOT_SMD:SOT-23_Handsoldering")
     )
   )
 )
